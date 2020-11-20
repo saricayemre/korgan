@@ -41,6 +41,15 @@ CTF'lere bir yerden başlamak gerekir. Bunun için bazı platformlar var. En bas
 - [Hacker101](https://www.hacker101.com/) _Web Güvenliği için öğrenme platformu_
 - [Hacking-Lab](https://hacking-lab.com/index.html) _Adli Tıp ve güvenlik LAB ortamı_
 - [Microcorruption](https://microcorruption.com/login) _Mikroişlemci için CTF'ler_
+- [Over The Wire](OverTheWire) _Güvenlik kavramları öğreticisi ve çözümler_
+- [PicoCTF](https://2019game.picoctf.com/) _Yıllık CTF çözüm sayfası_
+- [PWN Challenge](http://pwn.eonew.cn/) _Sömürü zorlukları_
+- [PWNable](http://pwnable.kr/) _Bilgisayar korsanlığı ve sunucu kontrolü_
+- [Reverseing](http://reversing.kr/) _Tersine kod zorlukları ve Cracking_
+- [Ringzer0CTF](https://ringzer0ctf.com/) _Takımlı CTF ve dahası_
+- [Root-me](https://www.root-me.org/) _Hacking ve Bilgi Güvenliği_
+- [xelenonz](https://github.com/xelenonz/game) _Basit zorluklar_
+- [ad](link)
 - [ad](link)
 - [ad](link)
 - [ad](link)
