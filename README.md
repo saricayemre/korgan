@@ -7,3 +7,10 @@ _Korgan,_ Türkçe'de "KALE" anlamına gelir. Bu repoya bu adı vermemin sebebi 
 ## İşletim Sistemleri
 
 - [BackBox](https://www.backbox.org/)
+- [BlackArch Linux](https://blackarch.org/)
+- [Fedora](https://labs.fedoraproject.org/security/)
+- [Kali Lİnux](https://www.kali.org/)
+- [Parrot Security](https://www.parrotsec.org/)
+- [Pentoo](https://pentoo.org/)
+- [Wifislax](https://www.wifislax.com/)
+
