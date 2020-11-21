@@ -4,6 +4,8 @@ _Korgan,_ Türkçe'de "KALE" anlamına gelir. Bu repoya bu adı vermemin sebebi 
 
 # İçindekiler
 
+# Başlangıç Bilgileri
+
 ## İşletim Sistemleri
 
 CTF çözmek veya siber güvenlik ile ilgilenmek için bazı özel işletim sistemlerine ihtiyaç duyarız. Aslında siber güvenliği başka işletim sistemleri üzerinden de öğrenmek veya yürütmek mümkündür. Fakat bu özel işletim sistemleri bu tür işlerle ilgilenenler için oldukça kolaylık sağlamakta ve fayda vermektedir. CTF çözerkende oldukça yararlı uygulamaları bünyesinde barındıran işletim sistemleri aşağıdaki gibidir.
