@@ -31,35 +31,37 @@ CTF çözmek ilk başlarda karışık gelebilir fakat bu tür konular üzerinde 
 CTF'lere bir yerden başlamak gerekir. Bunun için bazı platformlar var. En basit seviyede sorulardan başlayarak zora doğru ilerleyen sınavlarda puan aldığınızda açıkcası heyecanlanıyor ve bir şeyleri başardığınızı anlıyorsunuz. Bu tür sınavlara girdikçe zamanla uzmalaşıyor ve işin piri olma yolunda bir adım daha atmış oluyorsunuz. Gerek çevirim dışı derekse çevirim içi olsun CTF çözeceğiniz birçok site mevcut. Ben sizler için bu siteleri derledim ve buraya eklemek istedim. 
 
 - [BackDoor](https://backdoor.sdslabs.co/) : _Genel Güvenlik Platformu_
-- [Crackmes](https://crackmes.one/) _Tersine Mühendislik Soruları_
-- [CryptoHack](https://cryptohack.org/) _Kriptografi Öğrenin_
-- [echoCTF](https://echoctf.red/) _Çeşitli CTF Soruları_
-- [Exploit Alıştırmaları](https://exploit-exercises.lains.space/) _Genel Siber Güvenlik için Sanal Makineler ve daha fazlası_
-- [Exploit-Education](http://exploit.education/) _Genel Siber Güvenlik için Sanal Makineler ve daha fazlası_
-- [Hack The Box](https://www.hackthebox.eu/) _Sızma testi beceri geliştirme LAB ortamı_
-- [Bu Siteyi Hackle](https://www.hackthissite.org/) _Siteyi hackleyebilir misiniz?_ 
-- [Hacker101](https://www.hacker101.com/) _Web Güvenliği için öğrenme platformu_
-- [Hacking-Lab](https://hacking-lab.com/index.html) _Adli Tıp ve güvenlik LAB ortamı_
-- [Microcorruption](https://microcorruption.com/login) _Mikroişlemci için CTF'ler_
-- [Over The Wire](OverTheWire) _Güvenlik kavramları öğreticisi ve çözümler_
-- [PicoCTF](https://2019game.picoctf.com/) _Yıllık CTF çözüm sayfası_
-- [PWN Challenge](http://pwn.eonew.cn/) _Sömürü zorlukları_
-- [PWNable](http://pwnable.kr/) _Bilgisayar korsanlığı ve sunucu kontrolü_
-- [Reverseing](http://reversing.kr/) _Tersine kod zorlukları ve Cracking_
-- [Ringzer0CTF](https://ringzer0ctf.com/) _Takımlı CTF ve dahası_
-- [Root-me](https://www.root-me.org/) _Hacking ve Bilgi Güvenliği_
-- [xelenonz](https://github.com/xelenonz/game) _Basit zorluklar_
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
-- [ad](link)
+- [Crackmes](https://crackmes.one/) : _Tersine Mühendislik Soruları_
+- [CryptoHack](https://cryptohack.org/) : _Kriptografi Öğrenin_
+- [echoCTF](https://echoctf.red/) : _Çeşitli CTF Soruları_
+- [Exploit Alıştırmaları](https://exploit-exercises.lains.space/) : _Genel Siber Güvenlik için Sanal Makineler ve daha fazlası_
+- [Exploit-Education](http://exploit.education/) : _Genel Siber Güvenlik için Sanal Makineler ve daha fazlası_
+- [Hack The Box](https://www.hackthebox.eu/) : _Sızma testi beceri geliştirme LAB ortamı_
+- [Bu Siteyi Hackle](https://www.hackthissite.org/) : _Siteyi hackleyebilir misiniz?_ 
+- [Hacker101](https://www.hacker101.com/) : _Web Güvenliği için öğrenme platformu_
+- [Hacking-Lab](https://hacking-lab.com/index.html) : _Adli Tıp ve güvenlik LAB ortamı_
+- [Microcorruption](https://microcorruption.com/login) : _Mikroişlemci için CTF'ler_
+- [Over The Wire](OverTheWire) : _Güvenlik kavramları öğreticisi ve çözümler_
+- [PicoCTF](https://2019game.picoctf.com/) : _Yıllık CTF çözüm sayfası_
+- [PWN Challenge](http://pwn.eonew.cn/) : _Sömürü zorlukları_
+- [PWNable](http://pwnable.kr/) : _Bilgisayar korsanlığı ve sunucu kontrolü_
+- [Reverseing](http://reversing.kr/) : _Tersine kod zorlukları ve Cracking_
+- [Ringzer0CTF](https://ringzer0ctf.com/) : _Takımlı CTF ve dahası_
+- [Root-me](https://www.root-me.org/) : _Hacking ve Bilgi Güvenliği_
+- [xelenonz](https://github.com/xelenonz/game) : _Basit zorluklar_
+- [Viblo CTF](https://ctf.viblo.asia/landing) : _Alıştırma ve yarışma modunda CTF soruları_
+- [Vuln Hub](https://www.vulnhub.com/) : _Sanal makinelerle bilgisayar ve ağ güvenliği_
+- [W3Challs ](https://w3challs.com/) : _Farklı kategorilerde penetraston testi eğitimi_
+- [Webhacking](https://webhacking.kr/) : _Penetrasyon testi örnekleri_
+
+
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
 
 
