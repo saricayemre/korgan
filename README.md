@@ -4,6 +4,10 @@ _Korgan,_ Türkçe'de "KALE" anlamına gelir. Bu repoya bu adı vermemin sebebi 
 
 # İçindekiler
 
+- [Korgan](#korgan)
+- [Başlangıç Bilgileri](#başlangıç-bilgileri)
+  - [İşletim Sistemleri](#i̇şletim-sistemleri)
+
 # Başlangıç Bilgileri
 
 ## İşletim Sistemleri
