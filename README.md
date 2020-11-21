@@ -8,6 +8,11 @@ _Korgan,_ Türkçe'de "KALE" anlamına gelir. Bu repoya bu adı vermemin sebebi 
 - [Başlangıç Bilgileri](#başlangıç-bilgileri)
 
   - [İşletim Sistemleri](#i̇şletim-sistemleri)
+  - [CTF Nedir ve Nasıl Öğrenilir?](#ctf-nedir-ve-nasıl-öğrenilir)
+  - [Basit CTF Örnekleri Çözün](#basit-ctf-örnekleri-çözün)
+  - [ad](link)
+  - [ad](link)
+  - [ad](link)
 
 # Başlangıç Bilgileri
 
