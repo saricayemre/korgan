@@ -66,14 +66,25 @@ CTF'lere bir yerden başlamak gerekir. Bunun için bazı platformlar var. En bas
 - [W3Challs ](https://w3challs.com/) : _Farklı kategorilerde penetraston testi eğitimi_
 - [Webhacking](https://webhacking.kr/) : _Penetrasyon testi örnekleri_
 
+# Faydalı Siteler
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+CTF'ler hakkında birçok site mevcuttur. Benim takip ettiğim birkaç site aşağıdaki şekildedir.
+
+- [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#nmap-scanning) : _CTF programlarının Kullanımı hakkında bilgi veren repo_
+- [CTF Time](https://ctftime.org/) : _Dünyadaki CTF'ler_
+- [SecurityCTF](https://www.reddit.com/r/securityCTF/) : _CTF Duyuruları_
+
+# CTF Hakkında Bilgi Veren Wiki'ler
+
+Bazı kuruluşlar CTF hakkında wiki şeklinde bilgiler yayınlıyor. Bu wikilerden bazıları şunlardır.
+
+- [bi0s wiki](https://teambi0s.gitlab.io/bi0s-wiki/) : _Tersine mühendislik, kriptografi, web sömürüsü, ikili sömürü ve daha fazlası_
+- [CTF Cheatsheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) : _ CTF'ler hakkında ipuçları ve püf noktaları_
+- [ISIS Lab](https://github.com/osirislab/Project-Ideas/wiki) : _CTF Wiki_
+- [OpenToAllCTF](https://github.com/OpenToAllCTF/Tips) : _OpenToAllCTF ekibinden ipuçları ve püf noktaları_
+
+# 
+
 - [ad](link) : __
 
 
