@@ -92,7 +92,9 @@ Her problemde olduğu gibi CTF yarışmalarında da kullanılan birçok araç me
 - [Bettercap ](https://github.com/bettercap/bettercap) : _MITM (Ortadaki Adam) saldırılarını gerçekleştirmek için_
 - [Yersinia](https://github.com/tomac/yersinia) : _Çeşitli saldırı araçları_
 
-## 
+## Kriptoloji Araçları
+
+- [ad](link) : __
 - [ad](link) : __
 - [ad](link) : __
 - [ad](link) : __
@@ -102,7 +104,74 @@ Her problemde olduğu gibi CTF yarışmalarında da kullanılan birçok araç me
 - [ad](link) : __
 - [ad](link) : __
 
+## BruteForce(Kaba Kuvvet Saldırısı) Araçları
 
 - [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
 
+## Exploit(İstismar) Araçları
 
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+
+## Forensics(Adli) Araçları
+
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+
+## Network(Ağ) Araçları
+
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+
+## Reverse Engineering(Tersine Mühendislik) Araçları
+
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+
+## Web Uygulamaları Araçları
+
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
