@@ -162,24 +162,64 @@ _Ağ sorunlarını çözmek ve analiz etmek için kullanılan araçlar_
 
 ## Reverse Engineering(Tersine Mühendislik) Araçları
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+- [Androguard](https://github.com/androguard/androguard) : _Android uygulamalarını tersine çevirin_
+- [Apk2Gold](https://github.com/lxdvs/apk2gold) : _başka bir Android kod çözücüsü_
+- [ApkTool](http://ibotpeaches.github.io/Apktool/) : _Android Decompiler_
+- [Barf](https://github.com/programa-stic/barf-project) : _İkili Analiz ve Tersine Mühendislik Çerçevesi_
+- [BinWalk](https://github.com/ReFirmLabs/binwalk) : _Firmware görüntülerini analiz edin, ters mühendislik yapın ve ayıklayın_
+- [ctf_import ](https://github.com/docileninja/ctf_import) : _platformlar arası ayrılmış ikili dosyalardan temel işlevleri çalıştırır_
+- [Frida](https://github.com/frida/) : _Dinamik Kod Enjeksiyonu_
+- [GDB](https://www.gnu.org/software/gdb/) : _GNU projesi hata ayıklayıcısı_
+- [Ghidra](https://ghidra-sre.org/) : _Açık Kaynak tersine mühendislik araçları paketi_
+- [Hopper](http://www.hopperapp.com/) : _OSX ve Linux için tersine mühendislik aracı_
+- [IDA Pro](https://www.hex-rays.com/products/ida/) : _En çok kullanılan Ters Çevirme yazılımı_
+- [Jadx](https://github.com/skylot/jadx) : _Android dosyalarını yeniden derleyin_
+- [Java Decompilers](http://www.javadecompilers.com/) : _Java ve Android APK'ları için çevrimiçi bir derleyici_
+- [WinDbg](http://www.windbg.org/) : _Microsoft tarafından dağıtılan Windows hata ayıklayıcı_
+- [objection](https://github.com/sensepost/objection) : _Runtime Mobile Exploration_
+- [Detox](http://relentless-coding.org/projects/jsdetox/install) : _Bir Javascript kötü amaçlı yazılım analiz aracı_
+- [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) : _Gizlenmiş Javascript kodunu analiz edin_
+- [Swftools](http://www.swftools.org/) : _SWF dosyalarıyla çalışmak için yardımcı programlar koleksiyonu_
 
 ## Web Uygulamaları Araçları
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+_Web zorluklarını çözmek için kullanılan araçlar_
+
+- [BurpSuite](https://portswigger.net/burp) : _Web sitesi güvenliğini test etmek için grafik bir araç_
+- [Commix ](https://github.com/commixproject/commix) : _Otomatik Hepsi Bir Arada İşletim Sistemi Komut Enjeksiyonu ve Kullanım Aracı_
+- [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/) : _Kolay web kullanımı için Firefox eklentisi_
+- [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) : _HTTP isteklerini ve yanıtlarını yeniden oynatmak, hata ayıklamak ve fuzz için proxy'yi yakalamak_
+- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) : _Ağ isteklerinde hata ayıklama için Chrome için eklenti_
+- [Raccoon](https://github.com/evyatarmeged/Raccoon) : _Keşif ve güvenlik açığı taraması için yüksek performanslı bir saldırı güvenlik aracı_
+- [SQLMap ](https://github.com/sqlmapproject/sqlmap) : _Otomatik SQL enjeksiyonu ve veritabanı sömürme aracı_
+- [W3af](https://github.com/andresriancho/w3af) : _Web Uygulaması Saldırı ve Denetim Çerçevesi_
+- [XSSer](http://xsser.sourceforge.net/) : _Otomatik XSS test cihazı_
+
+## Steganografi(Bilgi Gizleme) Araçları
+
+_Steganografi zorluklarını çözmek için kullanılan araçlar_
+
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
+- [ad](link) : _açıklama_
