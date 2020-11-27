@@ -89,68 +89,76 @@ Her problemde olduğu gibi CTF yarışmalarında da kullanılan birçok araç me
 
 ## Saldırı Araçları
 
+_Çeşitli saldırı türlerini gerçekleştirmek için kullanılan araçlar_
+
 - [Bettercap ](https://github.com/bettercap/bettercap) : _MITM (Ortadaki Adam) saldırılarını gerçekleştirmek için_
 - [Yersinia](https://github.com/tomac/yersinia) : _Çeşitli saldırı araçları_
 
 ## Kriptoloji Araçları
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+_Kripto zorluklarını çözmek için kullanılan araçlar_
+
+- [CyberChef ](https://gchq.github.io/CyberChef/) : _Verileri analiz etmek ve çözmek için_
+- [FeatherDuster](https://github.com/nccgroup/featherduster) : _Otomatik, modüler bir kriptanaliz aracı_
+- [Hash Extender](https://github.com/iagox86/hash_extender) : _Hashing saldırıları gerçekleştirmek için bir yardımcı araç_
+- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) : _Padding oracle saldırılarını yürütmek için bir CLI aracı_
+- [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) : _PkZip şifrelemesini kırmak için bir araç._
+- [QuipQuip ](https://quipqiup.com/) : _İkame şifrelerini veya vigenere şifrelerini (anahtarsız) kırmak için çevrimiçi bir araç_
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) : _RSA özel anahtarını çeşitli saldırılarla kurtarmak için bir araç_
+- [RSATool](https://github.com/ius/rsatool) : _p ve q bilgisiyle özel anahtar oluşturun_
+- [XORTool](https://github.com/hellman/xortool) : _Çok boyutlu şifrelemeyi analiz etmek için bir araç_
 
 ## BruteForce(Kaba Kuvvet Saldırısı) Araçları
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+_Çeşitli türden kaba kuvvet kullanımı için kullanılan araçlar (şifreler vb.)_
+
+- [Hashcat](https://hashcat.net/hashcat/) : _Şifre Kırıcı_
+- [Hydra](https://tools.kali.org/password-attacks/hydra) : _Saldırmak için çok sayıda protokolü destekleyen paralelleştirilmiş bir login(giriş) kırıcı_
+- [John The Ripper](https://www.openwall.com/john/) : _Şifre Kırıcı_
+- [John The Jumbo](https://github.com/openwall/john) : _John the Ripper'ın topluluk tarafından geliştirilmiş versiyonu._
+- [Nozzlr](https://github.com/intrd/nozzlr) : _Nozzlr, tamamen modüler ve komut dosyası dostu bir bruteforce aracıdır_
+- [Ophcrack](https://ophcrack.sourceforge.io/) : _Windows şifre kırıcı_
+- [Patator](https://github.com/lanjelot/patator) : _Patator, modüler bir tasarıma sahip çok amaçlı bir kaba kuvvet saldırı aracıdır_
+- [Turbo Intruder ](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack) : _Çok sayıda HTTP isteği göndermek için Burp Suite uzantısı_
 
 ## Exploit(İstismar) Araçları
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+- [Metasploit](http://www.metasploit.com/) : _En iyi Sızma testi yazılımı_
+- [libformatstr](https://github.com/hellman/libformatstr) : _Simplify format(Biçim dizesi) istismarı_
+- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) : _İşlemlere dll'leri enjekte et_
+- [Pwntools](https://github.com/Gallopsled/pwntools) : _Açıklardan yararlanmak için CTF Çerçevesi_
+- [Qira](https://github.com/geohot/qira) : _QEMU Etkileşimli Çalışma Zamanı Analizcisi_
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) : _ROP kullanımı için çerçeve_
+- [V0lt](https://github.com/P1kachu/v0lt) : _CTF Güvenlik Araç Seti_
 
 ## Forensics(Adli) Araçları
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+- [Aircrack-Ng](http://www.aircrack-ng.org/) : _WEP ve WPA-PSK anahtarlarını kırın_
+- [Audacity](https://sourceforge.net/projects/audacity/) : _Ses dosyalarını analiz edin (mp3, m4a vs.)_
+- [creddump](https://github.com/moyix/creddump) : _çeşitli kimlik bilgilerini ve sırları ayıklamak için_
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) : _Rip web erişilebilir (dağıtılmış) sürüm kontrol sistemi_
+- [Fibratus](https://github.com/rabbitstack/fibratus) : _Windows çekirdeğinin araştırılması ve izlenmesi için bir araç_
+- [Fsck.ext4](https://linux.die.net/man/8/fsck.ext3) : _Bozuk dosya sistemlerini düzeltmek için kullanılır_
+- [Malzilla](http://malzilla.sourceforge.net/) : _Kötü amaçlı yazılım avlama aracı_
+- [NetworkMiner](https://www.netresec.com/index.ashx?page=NetworkMiner) : _Ağ Adli Analiz Aracı_
+- [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) : _PNG'nin bütünlüğünü doğrular ve yığın düzeyindeki tüm bilgileri okunabilir biçimde açar_
+- [USBRip](https://github.com/snovvcrash/usbrip) : _GNU / Linux'ta USB aygıtı eserlerini (USB olaylarının geçmişi) izlemek için basit CLI adli tıp aracı_
+- [Volatilite](https://github.com/volatilityfoundation/volatility) : _Bellek dökümlerini araştırmak için_
+- [Wireshark](https://www.wireshark.org/) : _pcap veya pcapng dosyalarını analiz etmek için kullanılır_
+- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) : _Çevrimdışı Kayıt dosyalarını harici sürücüden okumanıza ve istenen Kayıt defteri anahtarını .reg dosya biçiminde görüntülemenize olanak tanıyan Windows için basit bir araçtır_
+- [Registry Viewer®](https://accessdata.com/product-download/registry-viewer-2-0-0) : _Windows kayıtlarını görüntülemek için kullanılır_
 
 ## Network(Ağ) Araçları
 
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
-- [ad](link) : __
+_Ağ sorunlarını çözmek ve analiz etmek için kullanılan araçlar_
+
+- [Nmap](https://nmap.org/) : _Ağ keşfi ve güvenlik denetimi için açık kaynaklı bir yardımcı program_
+- [Wireshark](https://www.wireshark.org/) : _Ağ dökümlerini analiz edin_
+- [Masscan](https://github.com/robertdavidgraham/masscan) : _Toplu IP bağlantı noktası tarayıcı, TCP bağlantı noktası tarayıcı_
+- [Monit](https://linoxide.com/monitoring-2/monit-linux/) : _Ağdaki bir ana bilgisayarı (ve diğer ağ dışı etkinlikleri) kontrol etmek için bir linux aracı_
+- [Nipe](https://github.com/htrgouvea/nipe) : _Nipe, Tor Network'ü varsayılan ağ geçidiniz yapan bir betiktir_
+- [Zeek](https://www.zeek.org/) : _Açık kaynaklı bir ağ güvenliği monitörü_
+- [Zmap](https://zmap.io/) : _Açık kaynaklı bir ağ tarayıcısı_
 
 ## Reverse Engineering(Tersine Mühendislik) Araçları
 
