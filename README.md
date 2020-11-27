@@ -66,7 +66,7 @@ CTF'lere bir yerden başlamak gerekir. Bunun için bazı platformlar var. En bas
 - [W3Challs ](https://w3challs.com/) : _Farklı kategorilerde penetraston testi eğitimi_
 - [Webhacking](https://webhacking.kr/) : _Penetrasyon testi örnekleri_
 
-# Faydalı Siteler
+## Faydalı Siteler
 
 CTF'ler hakkında birçok site mevcuttur. Benim takip ettiğim birkaç site aşağıdaki şekildedir.
 
@@ -74,7 +74,7 @@ CTF'ler hakkında birçok site mevcuttur. Benim takip ettiğim birkaç site aşa
 - [CTF Time](https://ctftime.org/) : _Dünyadaki CTF'ler_
 - [SecurityCTF](https://www.reddit.com/r/securityCTF/) : _CTF Duyuruları_
 
-# CTF Hakkında Bilgi Veren Wiki'ler
+## CTF Hakkında Bilgi Veren Wiki'ler
 
 Bazı kuruluşlar CTF hakkında wiki şeklinde bilgiler yayınlıyor. Bu wikilerden bazıları şunlardır.
 
@@ -83,7 +83,25 @@ Bazı kuruluşlar CTF hakkında wiki şeklinde bilgiler yayınlıyor. Bu wikiler
 - [ISIS Lab](https://github.com/osirislab/Project-Ideas/wiki) : _CTF Wiki_
 - [OpenToAllCTF](https://github.com/OpenToAllCTF/Tips) : _OpenToAllCTF ekibinden ipuçları ve püf noktaları_
 
-# 
+# CTF için Kullanılan Araçlar
+
+Her problemde olduğu gibi CTF yarışmalarında da kullanılan birçok araç mevcuttur. Bunların hepsini bilmek veya hepsini kullnmak demek kıdemli olmak demektir ve bu oldukça zor bir iştir. Bu başlık altında CTF'te en çok kullanılan ve en bilindik araçları listeleyeceğim.
+
+## Saldırı Araçları
+
+- [Bettercap ](https://github.com/bettercap/bettercap) : _MITM (Ortadaki Adam) saldırılarını gerçekleştirmek için_
+- [Yersinia](https://github.com/tomac/yersinia) : _Çeşitli saldırı araçları_
+
+## 
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+- [ad](link) : __
+
 
 - [ad](link) : __
 
